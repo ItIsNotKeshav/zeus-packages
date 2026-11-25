@@ -1,0 +1,23 @@
+Architectures: amd64 arm64
+Codename: stable
+Date: Wed, 25 Nov 2026 18:17:41 +0000
+Description: Zeus, a native WhatsApp client
+Label: Zeus
+Origin: Zeus
+Suite: stable
+MD5Sum:
+ dafca0ea6f387eb87d25ca478f301c9f             1743 Packages
+ f1acf726f639a9123219e220f4deadec              780 Packages.gz
+ 9090b226b6d063f9e6caaac9d457cbe4              165 Release
+SHA1:
+ c0a64a23df3fe09ba834a7cfdf5f46aefa9823e1             1743 Packages
+ 10a539798739f7ea5482396d0dc5c129a033be9e              780 Packages.gz
+ 6f0ae436c81d9d71a11432952396f7f6d60d9458              165 Release
+SHA256:
+ 861ddd820716ee7846050c9487c0d9f7edae3e46dfe2ac9c398e04229b43e005             1743 Packages
+ 526787696f5d00a0f764a30c784d2a06ec06359adc09a6c7a887afe834f2b650              780 Packages.gz
+ 9d3417dbc760b03497d0affafd39b3444fbebe44b2cd231a18692e8e2fc92276              165 Release
+SHA512:
+ b0930b942c93c2106ac1174828c0e09a8743d4a24dd42b707d89fd3b7bee2af13757487c8990e830e594792f7731f12ef29c679e011547664302f9e10e0796e2             1743 Packages
+ 20323d698fe76f6bb5539d0faa745b696c07cce0812edc8ceec9daca588aef1f4c87eec35a25d73080d492ef5d7c587d5f55a909009f594b101f41377da866b4              780 Packages.gz
+ ca33bd2d08b56258d0f62bb8498e4c9d8d15af1be50b50b0324fd6013b2be051f815906aaee7d0ab062b3e5f8d8e0318fcb358be4e659c8f492c5cff0ee6c123              165 Release

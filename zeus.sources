@@ -1,0 +1,4 @@
+Types: deb
+URIs: https://itisnotkeshav.github.io/zeus-packages/apt/
+Suites: ./
+Signed-By: /etc/apt/keyrings/zeus.asc
